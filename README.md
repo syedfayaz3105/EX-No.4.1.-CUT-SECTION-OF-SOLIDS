@@ -9,7 +9,6 @@ To create the solid model from given drawing and section the solid model
 2. Windows 10
 3.16 GB of RAM (integrated graphics recommend 1 GB or more)
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
-
 ## PROCEDURE:
 1.	Open new file and then select sketch icon.
 2.	Select the plane for sketching. 
